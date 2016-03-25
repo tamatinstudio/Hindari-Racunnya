@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "permen.png",
+	"frame": {"x":0,"y":0,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"sourceSize": {"w":106,"h":106}
+},
+{
+	"filename": "permen1.png",
+	"frame": {"x":106,"y":0,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+{
+	"filename": "permen2.png",
+	"frame": {"x":216,"y":0,"w":114,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":114},
+	"sourceSize": {"w":114,"h":114}
+},
+{
+	"filename": "racun.png",
+	"frame": {"x":330,"y":0,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"sourceSize": {"w":106,"h":106}
+},
+{
+	"filename": "racun1.png",
+	"frame": {"x":436,"y":0,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+{
+	"filename": "racun2.png",
+	"frame": {"x":546,"y":0,"w":114,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":114},
+	"sourceSize": {"w":114,"h":114}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "edibleobjects.png",
+	"format": "RGBA8888",
+	"size": {"w":660,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:49cf1d46d397d1ea7d5678863456fef4:961c8a528d6e452b2132419f94f8df25:419240441cfdca59591725daecf3f2d5$"
+}
+}
